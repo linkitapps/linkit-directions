@@ -1,0 +1,9 @@
+{
+  "firebase": "linkit-directions",
+  "public": ".",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
