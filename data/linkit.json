@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [126.92666, 37.52374],
+          [126.92694, 37.52391],
+          [126.92711, 37.52373],
+          [126.92684, 37.52356],
+          [126.92666, 37.52374]
+        ]
+      ]
+    },
+    "properties": {
+      "name": "링크잇",
+      "height": 80
+    }
+  }]
+}
